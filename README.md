@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![DaeHee GitHub stats](https://github-readme-stats.vercel.app/api?username=DaeHeeLim&count_private=true&theme=radical)
+<!-- ![DaeHee GitHub stats](https://github-readme-stats.vercel.app/api?username=DaeHeeLim&count_private=true&theme=radical)
+-->
